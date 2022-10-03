@@ -393,20 +393,6 @@ img {
   color: #2196f3;
 }
 
-.agreement__link {
-  position: relative;
-}
-
-.agreement__link::after {
-  position: absolute;
-  bottom: -1px;
-  display: block;
-  content: "";
-  width: 100%;
-  height: 1px;
-  background-color: #2196f3;
-}
-
 .agreement__link:focus {
   outline: 1px solid #2196f3;
 }
@@ -450,7 +436,7 @@ img {
 .modal-send__button {
   width: 200px;
   height: 50px;
-  background-color: green;
+  background-color: #2196f3;
   border-style: none;
   border-radius: 4px;
   color: #ffffff;
