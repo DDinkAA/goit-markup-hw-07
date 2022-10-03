@@ -63,12 +63,6 @@
   align-items: center;
 }
 
-.subscription-form__input:hover,
-.subscription-form__input:focus {
-    outline: none;
-    border-color: $primaryWhiteColor;
-}
-
 .subscription-form__button:hover,
 .subscription-form__button:focus {
   background-color: $hoverAccentColor;
