@@ -1,25 +1,27 @@
 @import './utils/variable';
 @import './utils/placeholders';
 @import './utils/mixins';
-@import './components/body';
-@import './components/header/header';
-@import './components/header/logo';
-@import './components/header/header__nav';
-@import './components/header/header-contacts';
-@import './components/hero';
-@import './components/modal';
-@import './components/qualities';
-@import './components/spesialization';
-@import './components/team/team-section';
-@import './components/team/team-card';
-@import './components/clients';
-@import './components/footer/footer';
-@import './components/footer/footer-contacts';
-@import './components/footer/footer-socials';
-@import './components/footer/footer-form';
-@import './components/portfolio/portfolio_buttons';
-@import './components/portfolio/gallery';
-@import './components/portfolio/gallery-card';
+@import './layouts/body';
+@import './layouts/header/header';
+@import './components/logo';
+@import './layouts/header/header__nav';
+@import './layouts/header/header-contacts';
+@import './components/button';
+@import './layouts/hero';
+@import './layouts/modal';
+@import './layouts/qualities';
+@import './layouts/spesialization';
+@import './layouts/team/team-section';
+@import './components/social-icons';
+@import './layouts/team/team-card';
+@import './layouts/clients';
+@import './layouts/footer/footer';
+@import './layouts/footer/footer-contacts';
+@import './layouts/footer/footer-socials';
+@import './layouts/footer/footer-form';
+@import './layouts/portfolio/portfolio_buttons';
+@import './layouts/portfolio/gallery';
+@import './layouts/portfolio/gallery-card';
 
 
 
@@ -27,6 +29,3 @@
 
 
 
-// .textarea {
-//   resize: none;
-// }

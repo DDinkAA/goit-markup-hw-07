@@ -5,11 +5,10 @@
   &-container {
     @extend %container;
 }
-}
 
-.specialization-title {
-    @extend %section-title;
-    
+  &-title {
+    @extend %section-title; 
+}
 }
 
 .specialization-list {
