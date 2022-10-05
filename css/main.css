@@ -9,17 +9,6 @@
   margin-right: auto;
 }
 
-.clients-title, .team-title, .specialization-title {
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.16;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #212121;
-  margin-top: 0;
-  margin-bottom: 50px;
-}
-
 .footer-container, .clients-container, .team-container, .specialization-container, .container, .header-container {
   width: 1200px;
   margin: 0 auto;
@@ -81,6 +70,17 @@ img {
   align-items: center;
   justify-content: center;
   align-items: center;
+}
+
+.section-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  margin-top: 0;
+  margin-bottom: 50px;
 }
 
 .logo {
